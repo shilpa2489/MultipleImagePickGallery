@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shilpa-cispl/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_a89ade2fb6517569c93b67ecfa96be9113d7ed5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/libs/universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.0_2d2be1ac59f56556e930bcd5af5d56c67c0d1792.jar" />
+    </item>
+
+</items>

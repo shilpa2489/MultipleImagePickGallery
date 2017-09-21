@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-mdpi/btn.9.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-mdpi/btn.9.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-mdpi/btn_hover.9.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-mdpi/btn_hover.9.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-mdpi/top_bar.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-mdpi/top_bar.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-mdpi/checkbox_up.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-mdpi/checkbox_up.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-mdpi/checkbox_selected.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-mdpi/checkbox_selected.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

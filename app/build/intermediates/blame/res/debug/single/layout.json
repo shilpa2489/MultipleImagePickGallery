@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/layout/titlebar.xml",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/layout/titlebar.xml"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/layout/gallery.xml",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/layout/gallery.xml"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/layout/gallery_item.xml",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/layout/gallery_item.xml"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/layout/main.xml"
+    }
+]

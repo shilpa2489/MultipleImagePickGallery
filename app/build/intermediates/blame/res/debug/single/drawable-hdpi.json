@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_selected.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-hdpi/checkbox_selected.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-hdpi/checkbox_up.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-hdpi/checkbox_up.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_hover.9.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-hdpi/btn_hover.9.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-hdpi/top_bar.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-hdpi/top_bar.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/build/intermediates/res/merged/debug/drawable-hdpi/btn.9.png",
+        "source": "/Users/shilpa-cispl/Desktop/SHILPA/Android_Projects/MyAndroidProjects/MultipleImagePickGallery/app/src/main/res/drawable-hdpi/btn.9.png"
+    }
+]
